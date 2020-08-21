@@ -1,6 +1,6 @@
 # rolling_Dice
 
-A new Flutter project.
+This is just a simple tutorial purpose app
 
 ## Getting Started
 
