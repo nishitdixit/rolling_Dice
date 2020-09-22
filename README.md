@@ -2,6 +2,17 @@
 
 This is just a simple tutorial purpose app
 
+**NOTE**
+its better to mention full path in Image asset like:   
+
+AssetImage('assets/images/dice-png-$rightDiceNumber.png')
+
+otherwise if you metion like:  
+
+AssetImage('images/dice-png-$rightDiceNumber.png')
+
+then this will work fine on browser but will cause error in emulator.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
