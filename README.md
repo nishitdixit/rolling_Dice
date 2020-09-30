@@ -1,4 +1,4 @@
-# rolling_Dice
+# rolling_Dice flutter project<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="android" width="22" height="22"/> 
 
 This is just a simple tutorial purpose app
 
