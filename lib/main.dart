@@ -1,20 +1,22 @@
-import 'package:rolling_Dice/splash.dart';
 import 'package:flutter/material.dart';
+import 'package:rolling_Dice/homescreen.dart';
+import 'package:rolling_Dice/splash.dart';
+
 
 void main() {
-  runApp(MyApp(),
-    
+  runApp(
+    MyApp(),
   );
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
+  const MyApp({Key key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Demo',
-      home: SplashScreen(),
+      home: HomeScreen(),
     );
   }
 }
