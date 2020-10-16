@@ -69,6 +69,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Reference Links:
 https://api.flutter.dev/flutter/animation/Curves-class.html
+
 https://pub.dev/packages/animate_do
 
 Reference Link for image:
