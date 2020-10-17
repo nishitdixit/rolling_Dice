@@ -66,3 +66,11 @@ if you change the app’s source code, you can hit **r** to **hot-reload** your 
 For help getting started with Flutter, view 
 [Flutter documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Reference Links:
+https://api.flutter.dev/flutter/animation/Curves-class.html
+
+https://pub.dev/packages/animate_do
+
+Reference Link for image:
+https://www.cleanpng.com/png-shake-dice-three-dices-white-geometric-dice-254203/
